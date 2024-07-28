@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wavio.peerduck.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+wavio.peerduck.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5c886a225d49f6cc4cb25e18bedbc9d9	t_bb79cc8ede6a4b25e6354442eebc4c%7C%7C1721635228%7C%7C1721631628%7C%7C571b180826fe4b1c74d892b4aa245615
+wavio.peerduck.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+wavio.peerduck.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	3074%7C943%7C3067%7C3030%7C2949%7C3048%7C3047%7C3021%7C3038%7C3029%7C3065%7C3066%7C3049%7C3031%7C2984
+wavio.peerduck.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	04e6cda82473cec15d5060c3c2e61c64
+
